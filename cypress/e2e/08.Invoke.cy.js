@@ -14,7 +14,7 @@ function scroll(x, y, t) {
 }
 
 // Cypress.on("uncaught:exception", (err, runnable) => {
-//   //avoid executions are stopped by exception
+//   /*avoid executions are stopped by exception */
 //   return false;
 // });
 
